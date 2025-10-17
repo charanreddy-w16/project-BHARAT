@@ -1,8 +1,4 @@
-<!-- AIGNITE Banner (centered) -->
-<div align="center">
-  <h1> AIGNITE 2K25</h1>
-  <p><strong>Powered by MLSC</strong></p>
-</div>
+
 
 ---
 
@@ -31,14 +27,10 @@
 
 ---
 
-## 👥 Team Details
-**Team Name:** "Team VISION"
 
-| Name | Role | Email |
-|---|---:|---|
-| Lok Sai| Team Lead | loksaibollimuntha@gmail.com |
-| G Charan Reddy| Team Member| charanw16@gmail.com|
-| Rohit| Team Member | koonarohit@gmail.com |
+
+
+
 
 ---
 
@@ -76,7 +68,4 @@ Link 2-https://youtu.be/m8L7VJkHpWY?si=tDdmssvtbqzpYEms
 
 ---
 
-<p align="center">
-  <b>Hackathon:</b> AIGNITE 2K25 | Organized by MLSC<br/>
-</p>
 
